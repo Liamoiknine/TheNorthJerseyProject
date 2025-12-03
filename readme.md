@@ -1,10 +1,3 @@
-# Group Info
-Liam Oiknine, 521644, liamoiknine
-Chase Hurwitz, 508582, ChaseH01
-Daniel Khen, 508651, ddkhen11
-Matteo Dall'Olmo, ___, ____
-
-
 # North Jersey Project
 
 A conversational AI chatbot that simulates Tony Soprano, built with a fine-tuned language model and streaming web interface.
